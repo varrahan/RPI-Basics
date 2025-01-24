@@ -9,6 +9,11 @@ Lab2 is about setting up sqlite on the RPI and using the relational database alo
 
 [Lab2 README](./Lab2/README.md)
 
+## Lab3
+Lab 3 is about setting up a firebase to support cloud database storage and faciliate read/writes from multiple RPIs without direct connection or latency that could occur when storing locally. Lab 3 was also about using the Flask library to set up basic web servers and web applications that serve HTML files while providing a python backend service. In lab3-firebase.py, we set up the read/writes to the firebase real-time database. For the myflaskwebserver.py, a template HTML page was served, where the name that was displayed reflected a variable we initalize in the flask app route. The webserver.py served an interactive HTML/JS page that displayed an interactive LED grid. It was configured so that whenever a grid was colored on the web page, that same pixel on the sensehat was also lit up, with the same RGB as the file.
+
+[Lab3 README](./Lab3/README.md)
+
 ### Useful links and resources for the SYSC3010 labs:
  - [GitHub Starter Course Page with useful links](GitHubStarter.md) *(Provided by GitHub Classroom staff)*
  - *add other resources you find to be useful*
