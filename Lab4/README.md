@@ -1,0 +1,3 @@
+# SYSC3010 Lab4 Deliverables
+
+Lab4 was about setting up the team repository for the mini-project, and building off of the raspberry pi's GPIO system and pins. This lab had three python files that were done as individuals; The traffic_lights.py, which simulated a basic traffic light using the GPIO pins connected to the Raspberry Pi's sensehat, the traffic_lights_test.py, which used the assert functionality to build test cases for the traffic lights program, and the crosswalk_simulation.py, where we simulated the TrafficLights class from traffic_lights.py to run as a traffic light based on the provided state diagram.
