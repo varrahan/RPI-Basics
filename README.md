@@ -14,6 +14,11 @@ Lab 3 is about setting up a firebase to support cloud database storage and facil
 
 [Lab3 README](./Lab3/README.md)
 
+## Lab4
+Lab4 was about setting up the team repository for the mini-project, and building off of the raspberry pi's GPIO system and pins. This lab had three python files that were done as individuals; The traffic_lights.py, which simulated a basic traffic light using the GPIO pins connected to the Raspberry Pi's sensehat, the traffic_lights_test.py, which used the assert functionality to build test cases for the traffic lights program, and the crosswalk_simulation.py, where we simulated the TrafficLights class from traffic_lights.py to run as a traffic light based on the provided state diagram.
+
+[Lab4 README](./Lab4/README.md)
+
 ### Useful links and resources for the SYSC3010 labs:
  - [GitHub Starter Course Page with useful links](GitHubStarter.md) *(Provided by GitHub Classroom staff)*
  - *add other resources you find to be useful*
