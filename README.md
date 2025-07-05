@@ -32,4 +32,4 @@ It covers core topics like hardware interfacing, databases, cloud connectivity, 
 Clone the repository:
 ```bash
 git clone https://github.com/varrahan/RPI-Basics.git
-cd rpi-basics
+cd RPI-Basics
