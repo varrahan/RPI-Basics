@@ -1,4 +1,4 @@
-# 🐧 Raspberry Pi Basics
+#  Raspberry Pi Basics
 
 This repository contains a collection of beginner-friendly projects and code examples for working with a **Raspberry Pi** (RPI).  
 It covers core topics like hardware interfacing, databases, cloud connectivity, and hosting web services.
